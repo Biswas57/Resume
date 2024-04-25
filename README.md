@@ -1,5 +1,3 @@
-# Resume & Academic Transcript
+# Resume
 
-[Biswas Simkhada Resume.docx](https://github.com/Biswas57/Resume/files/14672550/Biswas.Simkhada.Resume.docx)
-
-[Biswas Simkhada Academic Transcript 2023.pdf](https://github.com/Biswas57/Resume/files/14672532/Biswas.Simkhada.Academic.Transcript.2023.pdf)
+[Biswas_Simkhada_Resume.pdf](https://github.com/Biswas57/Resume_and_Academic-Transcript/files/15122734/Biswas_Simkhada_Resume.pdf)
