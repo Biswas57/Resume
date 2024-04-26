@@ -4,8 +4,8 @@ name: Writeup-Readme
 
 on:
   push:
-    branches: 
-      - 'master'
+    branches:
+      - 'main'  # Changed from 'master'
     paths:
       - 'writeup.pdf'
       - '.README.md'
