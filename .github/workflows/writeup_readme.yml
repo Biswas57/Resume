@@ -24,9 +24,14 @@ jobs:
         persist-credentials: false
         fetch-depth: 0
 
-    # Install Ghostscript
-    - name: Install Ghostscript
-      run: sudo apt-get update && sudo apt-get install -y ghostscript
+    # Install Ghostscript and ImageMagick
+    - name: Install ImageMagick and Ghostscript
+      run: sudo apt-get update && sudo apt-get install -y imagemagick ghostscript
+
+    # Convert PDF to Images directly using shell command
+    - name: Convert Writeup to Images
+      run: |
+        convert -density ${{ env.DPI }} -trim -colorspace sRGB -alpha remove writeup.pdf -quality ${{ env.QUALITY }} output-%03d.jpg
 
     ## CONVERT THE ACTUAL IMAGES
     - name: Convert Writeup to Images
