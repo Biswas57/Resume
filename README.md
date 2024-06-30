@@ -1,6 +1,11 @@
+<div align="center">
+
 # Biswas Simkhada
 
 +61 433 760 421 | [biswas.simk@gmail.com](mailto:biswas.simk@gmail.com) | [linkedin.com/in/biswas-simkhada](https://linkedin.com/in/biswas-simkhada) | [github.com/biswas57](https://github.com/biswas57)
+
+</div>
+
 
 ## Education
 
