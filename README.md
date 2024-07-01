@@ -17,8 +17,8 @@ Relevant Coursework: Data Structures and Algorithms, Object-Oriented Programming
 
 ## Experience
 
-### Be Interactive Australia
-**Sales Team Leader**  
+### Sales Team Leader
+**Be Interactive Australia**  
 Haymarket, NSW | Feb 2023 -- Oct 2023
 
 - Thrived in a direct sales environment, generating \$700 a day, totaling over \$75,000 in sales within 9 months.
