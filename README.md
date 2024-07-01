@@ -6,14 +6,13 @@
 
 </div>
 
-
 ## Education
 
 ### University of New South Wales
 **Bachelor of Computer Science**  
 Kensington, NSW | Expected Graduation: Dec 2025
 
-Relevant Coursework: Data Structures and Algorithms, Object-Oriented Programming, Database Systems, Computer System Architecture, Team Software Development, Shell Scripting, Frontend Web Development.
+**Relevant Coursework:** Data Structures and Algorithms, Object Oriented Programming, Database Systems, Computer System Architecture, Team Software Development, Linux Shell and Shell Scripting, Frontend Web Development.
 
 ## Experience
 
@@ -28,31 +27,37 @@ Haymarket, NSW | Feb 2023 -- Oct 2023
 
 ## Software Projects
 
-### Tributary Event Processing System
+### Apache Kafka Tributary System Clone
 **Java, JUnit, Mockito, JSON, Gradle**  
 Mar 2024 -- Apr 2024
 
-- Constructed a Multi-Type Event Processing System API in Java, with parallel data processing and assured type-safety by implementing Concurrency and Generics alongside important OOP Design principles.
-- Incorporated key OOP Design patterns such as Singleton & Abstract Factory patterns to compact and synchronize event production consumption, and Strategy & Observer patterns to streamline event allocation.
-- Achieved \(\sim\)85% testing coverage by conducting over 75 tests in JUnit and Mockito to ensure system reliability.
-- Designed a message replay feature to allow events to be replayed from specific offsets, enabling error checking and correction without compromising system performance.
+- Constructed a Tributary Event Processing API, emulating Apache Kafka's Event Processing Platform in Java, with a function CLI, parallel data processing, and type-safety implemented through Concurrency and Generics.
+- Achieved ~85% testing coverage by conducting over 75 tests in JUnit and Mockito to guarantee system reliability.
+- Ensured thread-safety across concurrent producer and consumer threads for the safety of user data in the event processing pipeline by using Java synchronization mechanisms in classes and methods.
 
 ### Kahoot! Emulator
 **TypeScript, JavaScript, Node.js, Express, JSON, npm, Vercel**  
 Sep 2023 -- Nov 2023
 
-- Engineered a Kahoot! emulator API named 'Toohak!' utilizing TypeScript and JavaScript alongside the Node.js and Express frameworks, and learning deployment fundamentals through Vercel for scalability and performance.
-- Collaborated in a team of 5 using Gitlab to program the RESTful API with a full suite of HTTP requests, while reaching key project milestones over the course of 2 months.
+- Engineered a Kahoot! emulator API named 'Toohak!' utilizing TypeScript and JavaScript alongside the Node.js and Express frameworks, reaching key project milestones over the course of 2 months.
+- Collaborated in a team of 5 using Gitlab to program the RESTful API with a full suite of HTTP requests.
 
 ## Extracurricular Projects
+
+### StuDev Director
+**UNSW DigiSoc**  
+Mar 2024 -- Present
+
+- Oversee the Student Development portfolio of UNSW’s Digital Society, implementing key initiatives such as Industry Focused Mentorships and Hackathons, aimed at improving technical skills among students.
+- Collaborate with industry leaders and sponsors to design programs to share professional insights to students.
+- Cultivate a team atmosphere that values constructive feedback, strong time management, and effective communication, ensuring all team members thrive and contribute meaningfully.
 
 ### Accenture Software Engineering Program
 **Forage**  
 Apr 2024 -- May 2024
 
 - Integrated a search functionality into an e-commerce platform's RESTful API with Java and Spring Boot, followed by conducting over 50 unit tests in Spock to guarantee features performed correctly.
-- Participated in an Agile session, discussing and breaking down software features into sets of smaller user stories.
-- Focused on key user deliverables such as shipping options, payment processing, and shopping cart features.
+- Participated in an Agile session, discussing and breaking down software features into sets of smaller user stories, focusing on implementing key features such as shipping options, payment processing, and shopping cart features.
 - Designed and established a CI/CD testing pipeline with Gradle and Jenkins to create automated tests across all GitHub repository branches, resulting in greatly enhanced efficiency when testing and merging code.
 
 ### Atlassian x UNIHACK Hackathon 2024
@@ -63,16 +68,9 @@ Feb 2024 -- Mar 2024
 - Contended for UNIHACK's Most Engaging Pitch Award with a compelling video walkthrough of Bis’ Kitchen.
 - Developed an interactive front-end for Bis' Kitchen in React and HTML, while integrating an external API, React Routers and other styling components to build a complete and functional UI.
 
-### Computer E-commerce Store
-**eBay.com**  
-Aug 2019 -- Sep 2022
-
-- Operated an eBay store specialising in refurbished desktops, generating over \$20,000 in revenue over 3 years.
-- Sold over 2,000 units consisting of RAM, CPU, GPU, and Desktops with a customer approval rate of 99.5%.
-
 ## Technical Skills
 
 - **Languages:** Java, Python, SQL, JavaScript, C, HTML, CSS
-- **Frameworks:** JUnit, React.js, Node.js, Express, TypeScript
+- **Frameworks:** JUnit, Psycopg2, PL/pgSQL, React.js, Node.js, Express, TypeScript
 - **Developer Tools:** Git, GitLab, GitHub, PostgreSQL, Gradle, npm, Homebrew, Vercel, Visual Studio Code
 - **Hobbies and Interests:** History & Religion, Boxing, Poetry
