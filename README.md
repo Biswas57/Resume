@@ -13,7 +13,7 @@
 **Bachelor of Computer Science**  
 Kensington, NSW | Expected Graduation: Dec 2025
 
-Relevant Coursework: Data Structures and Algorithms, Object-Oriented Programming, Database Systems, Computer System Architecture, Team Software Development, Shell Scripting, Frontend Engineering, Cybersecurity Engineering.
+Relevant Coursework: Data Structures and Algorithms, Object-Oriented Programming, Database Systems, Computer System Architecture, Team Software Development, Shell Scripting, Frontend Web Development.
 
 ## Experience
 
