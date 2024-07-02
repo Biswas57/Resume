@@ -42,7 +42,7 @@ Sep 2023 -- Nov 2023
 - Engineered a Kahoot! Clone API named 'Toohak!' utilizing TypeScript and JavaScript alongside the Node.js and Express frameworks, reaching key project milestones over the course of 2 months.
 - Collaborated in a team of 5 using Gitlab to program the RESTful API with a full suite of HTTP requests.
 
-## Extracurricular Projects
+## Extracurricular
 
 ### StuDev Director
 **UNSW DigiSoc**  
