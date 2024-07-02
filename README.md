@@ -27,7 +27,7 @@ Haymarket, NSW | Feb 2023 -- Oct 2023
 
 ## Software Projects
 
-### Kafka Broker Emulator
+### Kafka Cluster Emulator
 **Java, JUnit, Mockito, JSON, Gradle**  
 Mar 2024 -- Apr 2024
 
