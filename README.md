@@ -27,19 +27,19 @@ Haymarket, NSW | Feb 2023 -- Oct 2023
 
 ## Software Projects
 
-### Apache Kafka Tributary System Clone
+### Kafka Broker Emulator
 **Java, JUnit, Mockito, JSON, Gradle**  
 Mar 2024 -- Apr 2024
 
-- Constructed a Tributary Event Processing API, emulating Apache Kafka's Event Processing Platform in Java, with a function CLI, parallel data processing, and type-safety implemented through Concurrency and Generics.
+- Constructed a ’Tributary Cluster’ Event Processing API, emulating Apache Kafka’s Event Processing Platform in Java, with parallel data processing and type-safety through OOP techniques such as Concurrency and Generics..
 - Achieved ~85% testing coverage by conducting over 75 tests in JUnit and Mockito to guarantee system reliability.
-- Ensured thread-safety across concurrent producer and consumer threads for the safety of user data in the event processing pipeline by using Java synchronization mechanisms in classes and methods.
+- Ensured thread-safety across concurrent producer and consumer threads for the safety of user data in the event processing pipeline by utilizing Java synchronization mechanisms in classes and methods.
 
-### Kahoot! Emulator
+### Kahoot! Clone
 **TypeScript, JavaScript, Node.js, Express, JSON, npm, Vercel**  
 Sep 2023 -- Nov 2023
 
-- Engineered a Kahoot! emulator API named 'Toohak!' utilizing TypeScript and JavaScript alongside the Node.js and Express frameworks, reaching key project milestones over the course of 2 months.
+- Engineered a Kahoot! Clone API named 'Toohak!' utilizing TypeScript and JavaScript alongside the Node.js and Express frameworks, reaching key project milestones over the course of 2 months.
 - Collaborated in a team of 5 using Gitlab to program the RESTful API with a full suite of HTTP requests.
 
 ## Extracurricular Projects
